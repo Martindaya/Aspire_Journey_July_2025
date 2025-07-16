@@ -1,2 +1,4 @@
 Martin Dayalan
 HCL Technologies
+Git training
+Hands-on
